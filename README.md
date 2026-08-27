@@ -27,7 +27,7 @@ I'm a BSIT graduate focused on web development, software testing, QA, databases,
 
 ## Stack
 
-[![Stack](https://skillicons.dev/icons?i=python,php,javascript,html,css,flask,django,codeigniter,react,mysql,git,github,figma,vscode,linux,notion,google,trello,canva,capcut&perline=10)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=python,php,javascript,html,css,flask,django,react,mysql,git,github,figma,vscode,notion,discord&perline=17)](https://skillicons.dev)
 
 ## Stats
 
