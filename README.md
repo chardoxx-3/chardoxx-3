@@ -33,11 +33,7 @@ I'm a BSIT graduate focused on web development, software testing, QA, databases,
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=chardoxx-3&theme=dark&hide_border=true&background=00000000)](https://git.io/streak-stats)
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=chardoxx-3&theme=darkhub&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![Profile Views](https://count.getloli.com/@chardoxx-3?name=chardoxx-3&theme=sketch-1&padding=4&offset=1&scale=1&pixelated=1&darkmode=1)](https://count.getloli.com)
-
-![Snake](https://raw.githubusercontent.com/chardoxx-3/chardoxx-3/output/github-contribution-grid-snake.svg)
 
 ## Get in Touch
 
