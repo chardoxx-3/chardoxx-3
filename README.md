@@ -1,120 +1,44 @@
-<h1 align="center">Hi, I'm Richard Miculob 👋</h1>
+[![Banner](./assets/banner.svg)](https://richardmiculob-portfolio.vercel.app/)
 
-<h3 align="center">
+Hi, I'm **[Richard Miculob](https://richardmiculob-portfolio.vercel.app/)**
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 60" width="100%" style="max-width:380px;height:auto" role="img" aria-label="BSIT Graduate, Web Developer, QA and Software Testing, Technical Problem Solver">
-  <defs>
-    <clipPath id="type-a">
-      <rect x="0" y="0" width="0" height="60">
-        <animate attributeName="width" values="0;0;196;196;0;0" keyTimes="0;0.05;0.5;0.68;0.95;1" dur="3.5s" begin="0s" repeatCount="indefinite"/>
-      </rect>
-    </clipPath>
-    <clipPath id="type-b">
-      <rect x="0" y="0" width="0" height="60">
-        <animate attributeName="width" values="0;0;196;196;0;0" keyTimes="0;0.05;0.5;0.68;0.95;1" dur="3.5s" begin="3.5s" repeatCount="indefinite"/>
-      </rect>
-    </clipPath>
-    <clipPath id="type-c">
-      <rect x="0" y="0" width="0" height="60">
-        <animate attributeName="width" values="0;0;300;300;0;0" keyTimes="0;0.05;0.5;0.68;0.95;1" dur="3.5s" begin="7s" repeatCount="indefinite"/>
-      </rect>
-    </clipPath>
-    <clipPath id="type-d">
-      <rect x="0" y="0" width="0" height="60">
-        <animate attributeName="width" values="0;0;352;352;0;0" keyTimes="0;0.05;0.5;0.68;0.95;1" dur="3.5s" begin="10.5s" repeatCount="indefinite"/>
-      </rect>
-    </clipPath>
-  </defs>
-  <g fill="currentColor" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22">
-    <g clip-path="url(#type-a)">
-      <text x="0" y="38">BSIT Graduate</text>
-      <rect x="202" y="10" width="9" height="28" fill="currentColor"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/></rect>
-    </g>
-    <g clip-path="url(#type-b)">
-      <text x="0" y="38">Web Developer</text>
-      <rect x="202" y="10" width="9" height="28" fill="currentColor"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/></rect>
-    </g>
-    <g clip-path="url(#type-c)">
-      <text x="0" y="38">QA &amp; Software Testing</text>
-      <rect x="306" y="10" width="9" height="28" fill="currentColor"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/></rect>
-    </g>
-    <g clip-path="url(#type-d)">
-      <text x="0" y="38">Technical Problem Solver</text>
-      <rect x="358" y="10" width="9" height="28" fill="currentColor"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/></rect>
-    </g>
-  </g>
-</svg>
+I'm a BSIT graduate focused on web development, software testing, QA, databases, and digital operations — building, testing, and improving practical digital systems.
 
-</h3>
+## About Me
 
-<p align="center"><strong>I build, test, and improve practical digital systems.</strong></p>
+- **Background:** A BSIT graduate (2026) from the Philippines with hands-on experience building and testing practical digital systems.
+- **QA & Testing:** Skilled in system testing, bug identification, and ensuring software reliability across web and database-driven applications.
+- **Development:** Experienced in full-stack web development with Python, PHP, JavaScript, and frameworks like Flask, Django, and React.
+- **Systems:** Built database-driven solutions including RFID and QR-based systems for real-world monitoring and management.
+- **Operations:** Supported digital workflows through database management, data handling, and virtual assistance.
+- **Recognition:** Academic work recognized with Best Capstone Paper and Best Capstone System awards.
 
-<p align="center">BSIT graduate focused on web development, software testing, QA, databases, and digital operations.</p>
+## Featured Project
 
-<p align="center">
-  <a href="https://richardmiculob-portfolio.vercel.app/">Portfolio</a> ·
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">LinkedIn</a> ·
-  <a href="mailto:YOUR_EMAIL@example.com">Email</a>
-</p>
+### [RFID-Based CPSC Student Monitoring System](https://richardmiculob-portfolio.vercel.app/)
 
----
+*An RFID-based student monitoring system with automated photo capture, email notifications, Google Drive export, and administrative reporting.*
 
-<!-- Optional: subtle animated contribution graph. Uncomment after setting your GitHub username.
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&background=00000000&date_format=j%20M%20Y" alt="GitHub Streak" />
-  </a>
-</p>
--->
+[![Best Capstone Paper](https://img.shields.io/badge/Best%20Capstone-Paper-2da44e?style=flat-square)](https://richardmiculob-portfolio.vercel.app/)
+[![Best Capstone System](https://img.shields.io/badge/Best%20Capstone-System-2da44e?style=flat-square)](https://richardmiculob-portfolio.vercel.app/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://mysql.com)
 
-## About
+## Stack
 
-I'm a BSIT graduate (2026) based in the Philippines who enjoys solving real-world problems with technology. I've built database-driven systems, worked with RFID and QR-based solutions, and spent time testing software and supporting digital workflows. My work has received academic recognition, including Best Capstone Paper and Best Capstone System. I care about the details that make systems practical, reliable, and genuinely useful — and I like seeing them improve the way people work.
+[![Stack](https://skillicons.dev/icons?i=python,php,javascript,html,css,flask,django,react,mysql,git,github,figma,vscode,linux&perline=7)](https://skillicons.dev)
 
-## Technical Skills
+## Stats
 
-**Languages:** Python · PHP · JavaScript · HTML · CSS
+[![GitHub Streak](https://streak-stats.demolab.com/?user=chardoxx-3&theme=dark&hide_border=true&background=00000000)](https://git.io/streak-stats)
 
-**Frameworks:** Flask · Django · CodeIgniter · React
+[![Trophy](https://github-profile-trophy.vercel.app/?username=chardoxx-3&theme=darkhub&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-**Databases:** MySQL
+[![Profile Views](https://count.getloli.com/@chardoxx-3?name=chardoxx-3&theme=sketch-1&padding=4&offset=1&scale=1&pixelated=1&darkmode=1)](https://count.getloli.com)
 
-**Tools & Platforms:** Git · GitHub · Figma · Canva · Google Workspace · Notion · Trello
-
-**Specialized:** RFID · QR-based systems · System testing · Bug identification · Database management
-
-## Selected Projects
-
-- **RFID-Based CPSC Student Monitoring System** — RFID-based student monitoring with automated photo capture, email notifications, Google Drive export, and administrative reporting. _Best Capstone Paper · Best Capstone System_
-- **ResQR** — Disaster relief management system using QR-based solutions and digital data management.
-- **iTrak** — Terminal management system focused on practical digital operations.
-- **DocuTrack** — Document tracking system designed to improve document monitoring and workflow efficiency.
-- **Boarding House Rental System** — Database-driven rental management system.
-
-More details on my [portfolio](https://richardmiculob-portfolio.vercel.app/).
-
-## Achievements
-
-- **Dean's Lister**
-- **Best Capstone Paper** and **Best Capstone System**
-- **Most Promising Prototype** — AI Ideas for Impact
-- **600-hour On-the-Job Training** at DICT
-
-## Current Focus
-
-<svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Currently focused on">
-  <circle cx="5" cy="5" r="4" fill="#2da44e">
-    <animate attributeName="opacity" values="1;0.35;1" dur="2s" repeatCount="indefinite"/>
-  </circle>
-</svg> **Software testing & QA** · **Web development** · **Full-stack development** · **Practical digital systems**
-
----
+![Snake](https://raw.githubusercontent.com/chardoxx-3/chardoxx-3/output/github-contribution-grid-snake.svg)
 
 ## Get in Touch
 
-I'm open to opportunities in **QA**, **web development**, **IT operations**, and **digital workflows**.
-
-- [Portfolio](https://richardmiculob-portfolio.vercel.app/)
-- [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-- [Email](mailto:YOUR_EMAIL@example.com)
+[![portfolio logo](https://api.iconify.design/simple-icons/vercel.svg?color=black&height=30)](https://richardmiculob-portfolio.vercel.app/) &nbsp;&nbsp; [![email logo](https://api.iconify.design/simple-icons/gmail.svg?color=black&height=30)](mailto:richardmiculob@example.com) &nbsp;&nbsp; [![linkedin logo](https://api.iconify.design/simple-icons/linkedin.svg?color=black&height=30)](https://www.linkedin.com/in/richardmiculob/) &nbsp;&nbsp; [![github logo](https://api.iconify.design/simple-icons/github.svg?color=black&height=30)](https://github.com/chardoxx-3)
