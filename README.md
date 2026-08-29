@@ -31,7 +31,9 @@ I'm a BSIT graduate focused on web development, software testing, QA, databases,
 
 ## Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=chardoxx-3&theme=dark&hide_border=true&background=00000000)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chardoxx-3&show_icons=true&theme=dark&hide_border=true&bg_color=00000000)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chardoxx-3&theme=dark&hide_border=true&bg_color=00000000&layout=compact)
 
 [![Profile Views](https://count.getloli.com/@chardoxx-3?name=chardoxx-3&theme=sketch-1&padding=4&offset=1&scale=1&pixelated=1&darkmode=1)](https://count.getloli.com)
 
