@@ -31,9 +31,7 @@ I'm a BSIT graduate focused on web development, software testing, QA, databases,
 
 ## Stats
 
-![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chardoxx-3&theme=dark)
-
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chardoxx-3&theme=dark) ![Most Commit Lang](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chardoxx-3&theme=dark)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chardoxx-3&theme=dark)
 
 [![Profile Views](https://count.getloli.com/@chardoxx-3?name=chardoxx-3&theme=sketch-1&padding=4&offset=1&scale=1&pixelated=1&darkmode=1)](https://count.getloli.com)
 
